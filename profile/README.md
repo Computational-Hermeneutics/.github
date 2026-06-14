@@ -52,8 +52,8 @@ graph TB
   C -.shared annotation layer.-> S
   S -.loci for close reading.-> C
 
-  classDef reading fill:#ffffff,stroke:#b8862e,color:#181818,stroke-width:1.2px;
-  classDef collation fill:#ffffff,stroke:#3563a8,color:#181818,stroke-width:1.2px;
+  classDef reading fill:#ffffff,stroke:#9c7c34,color:#181818,stroke-width:1.2px;
+  classDef collation fill:#ffffff,stroke:#2f4a6b,color:#181818,stroke-width:1.2px;
   class C reading;
   class S collation;
 ```
