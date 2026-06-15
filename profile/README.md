@@ -1,6 +1,6 @@
 # Computational Hermeneutics
 
-Research instruments for computational close reading.
+Research tools for computational close reading.
 
 **🌐 Website and map: [computational-hermeneutics.github.io](https://computational-hermeneutics.github.io)**
 
@@ -9,7 +9,7 @@ textual criticism and interpretation to computational artefacts, to code as
 much as to text. Software is written, copied, edited, forked, and revised; it
 carries variants, witnesses, and emendations exactly as a literary text does,
 and like a literary text it can be read closely or read comparatively. The
-instruments here treat computational artefacts as objects of reading rather
+tools here treat computational artefacts as objects of reading rather
 than only of execution or measurement, and they keep interpretation and
 attestation bound together: no reading is offered without the evidence that
 supports it. The tools are local-first, interpretively serious, and built for
@@ -17,7 +17,7 @@ close reading rather than distant measurement.
 
 ## The family
 
-The instruments are arranged in two registers. The close-reading register
+The tools are arranged in two registers. The close-reading register
 opens a single artefact for intensive interpretation; the collation register
 sets witnesses side by side and reads the differences between them.
 
@@ -60,7 +60,7 @@ graph TB
 
 ## Further reading
 
-The instruments operationalise commitments developed across critical code
+The tools operationalise commitments developed across critical code
 studies, textual scholarship, and the critical theory of computation. The
 scholarship sets the conceptual ground; the tools are the working apparatus.
 
@@ -83,6 +83,6 @@ For per-tool deep dives and the full reading guide see
 ---
 
 *Computational Hermeneutics is directed by
-[David M. Berry](https://github.com/dmberry). Tools are research instruments
+[David M. Berry](https://github.com/dmberry). Tools are research tools
 and are offered as-is under permissive licences. See each repository for
 details.*
