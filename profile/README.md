@@ -83,6 +83,6 @@ For per-tool deep dives and the full reading guide see
 ---
 
 *Computational Hermeneutics is directed by
-[David M. Berry](https://github.com/dmberry). Tools are research tools
-and are offered as-is under permissive licences. See each repository for
+[David M. Berry](https://github.com/dmberry). The tools are offered
+as-is under permissive licences. See each repository for
 details.*
