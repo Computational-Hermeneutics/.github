@@ -17,8 +17,8 @@ close reading rather than distant measurement.
 
 ## The family
 
-The tools are arranged in two registers. The close-reading register
-opens a single artefact for intensive interpretation; the collation register
+The tools are grouped by method. The close-reading method
+opens a single artefact for intensive interpretation; the collation method
 sets witnesses side by side and reads the differences between them.
 
 ### Close reading
