@@ -18,7 +18,7 @@ close reading rather than distant measurement.
 ## The family
 
 The tools are grouped by method. The close-reading method
-opens a single artefact for intensive interpretation; the collation method
+opens a single artefact for intensive interpretation; comparative analysis
 sets witnesses side by side and reads the differences between them.
 
 ### Close reading
@@ -29,7 +29,7 @@ sets witnesses side by side and reads the differences between them.
   critique, interpret, create. Live at
   [ccs-wb.vercel.app](https://ccs-wb.vercel.app).
 
-### Collation
+### Comparative analysis
 
 - **[Source Variorum](https://github.com/Computational-Hermeneutics/Source-Variorum)**,
   the collation of two or more witnesses of a text, code or prose. A braided
@@ -45,7 +45,7 @@ graph TB
     C["CCS-WB\ncode as cultural text"]
   end
 
-  subgraph collation["Collation (multiple witnesses)"]
+  subgraph collation["Comparative analysis (multiple witnesses)"]
     S["Source Variorum\nwitnesses side by side"]
   end
 
